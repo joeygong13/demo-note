@@ -3,8 +3,8 @@ tags:
   - git
 summary: 通过 SSH Agent 为 git clone 命令提供认证，出现无权限问题
 title: git clone no permit
-share: "true"
 date: 2025-05-17T00:10:42+08:00
+author: Joey
 ---
 
 在 windows 中，使用 ssh-agent 为 git clone 提供认证，出现以下问题
